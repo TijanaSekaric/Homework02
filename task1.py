@@ -15,7 +15,7 @@
 
 import math
 
-def rect_2_polar(a,b):
+def rect2polar(a,b):
 
     z = math.sqrt(a**2 + b**2)
 
@@ -38,6 +38,6 @@ def rect_2_polar(a,b):
 
 def main():
 
-     print(rect_2_polar(6,2))
+     print(rect2polar(6,2))
 
 main()
