@@ -29,6 +29,6 @@ def nzd(a,b):
 
 def main():
 
-    print(nzd(68, 24))
+    print(nzd(688, 24))
 
 main()
